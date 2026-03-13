@@ -152,6 +152,11 @@ For issues and feature requests, please create an issue on GitHub.
 - Inspired by the Digital Minimalism movement
 - Built with ❤️ for a healthier digital life
 
+
+### Notes
+- Routine repository update. No functional changes.
+
+
 ---
 
 **Ready to start your digital minimalism journey?** [Try it now](https://digital-minimalist.app)
